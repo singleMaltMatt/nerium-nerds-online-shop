@@ -302,16 +302,19 @@ table a, #comments a{background-color:inherit;}
 
 
 /* ------------------------------------------------------------------------------------------------------------ */
-/* SHOP PAGES CATAGORIES */
+/* SHOP PAGES CATAGORIES -- ||revist when smarter*/
+.shop-catas h2{
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+}
 
-.catas-list, ul {
+/* .catas-list ul {
 	list-style-type: none;
 	display: flex;
-	align-content: center;
 	justify-content: space-between;
-	
+	font-size: 30px;
 
-}
+} */
 
 
 /* ------------------------------------------------------------------------------------------------------------ */
